@@ -121,5 +121,4 @@ Led by **Javier de la Torre**
 **Building Agentic AI Apps with CARTO**
 *Technical level: Developers/Intermediate*  
 Led by **Felix Palmer**  
-- [Slides](#)
-- [Worksheet](#)
+- [Worksheet](https://github.com/CartoDB/sdsc-2025-ai-deck-workshop)
