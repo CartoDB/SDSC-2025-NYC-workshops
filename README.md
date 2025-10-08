@@ -30,7 +30,8 @@ Led by **CARTO – Chelsea**
 #### Room C  
 **Agentic GIS: Turning CARTO Workflows into MCP Tools**  
 *Technical level: Advanced*  
-Led by **CARTO – Ana & Ernesto**  
+Led by **CARTO – Ana & Ernesto**
+- [Slides](https://docs.google.com/presentation/d/15CIlqaWUxRUKDWJmxWuvTUtxIoAmofDWgKlG7gvAB0E/edit?slide=id.g3386d626f30_0_0#slide=id.g3386d626f30_0_0)
 - [Worksheet](https://github.com/CartoDB/sdsc-nyc-25-mcp-ai-agent)
 
 ---
