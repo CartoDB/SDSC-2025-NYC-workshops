@@ -31,8 +31,7 @@ Led by **CARTO – Chelsea**
 **Agentic GIS: Turning CARTO Workflows into MCP Tools**  
 *Technical level: Advanced*  
 Led by **CARTO – Ana & Ernesto**  
-- [Slides](#)
-- [Worksheet](#)
+- [Worksheet](https://github.com/CartoDB/sdsc-nyc-25-mcp-ai-agent)
 
 ---
 
