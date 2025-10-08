@@ -25,7 +25,7 @@ Led by **CARTO – Matt**
 *Technical level: Beginner*  
 Led by **CARTO – Chelsea**  
 - [Slides](https://docs.google.com/presentation/d/1bR6CIXDQil2Alb1Gr8AIdHp-6dxvZmsaRqgCgtxgUf8/edit?slide=id.g3386d626f30_0_0#slide=id.g3386d626f30_0_0)
-- [Worksheet](#)
+- [Worksheet](https://drive.google.com/drive/folders/1jmiQps0BNpkRYHtGdwxU2UcoVZksGrg-)
 
 #### Room C  
 **Agentic GIS: Turning CARTO Workflows into MCP Tools**  
