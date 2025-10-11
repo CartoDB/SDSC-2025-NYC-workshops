@@ -54,8 +54,9 @@ Led by **Snowflake – Ted Friedhouser & Ryan + Antonio**
 **Transforming Public Sector Planning: A Hands-On Workshop on Geospatial Analytics for Mobility and Infrastructure**  
 *Technical level: Intro/Medium*  
 Led by **Emma Pattiz + Gideon**  
-- [Slides](#)
-- [Worksheet](#)
+- [Slides](https://docs.google.com/presentation/d/1WWYy8y3dwlSoM7boUtgWN94BC3cMxi2emDJZjpYAwvI/edit?usp=sharing.
+)
+- [Worksheet](https://docs.google.com/document/d/1ylpNt7KnQp5vHFr8S8Naf_FxGKlYq9Muklc0hsNr_DU/edit?usp=sharing)
 
 #### Room C  
 **Full-Cycle Geospatial AI: From Risk Assessment to Resource Deployment in the Cloud**  
@@ -107,8 +108,7 @@ Led by **Alex Singleton & Owen Goodwin (University of Liverpool)**
 **From Risk to Resilience: Mastering Asset Impact Planning with CARTO**  
 *Technical level: Intro/Medium*  
 Led by **Michael Johns, Gideon & Antonio**  
-- [Slides](#)
-- [Worksheet](#)
+- [Slides](https://docs.google.com/presentation/d/1wrLXqEeASM08r-btnqNeabCw6ASaagorlWOhU37k7IU/edit?usp=sharing)
 
 #### Room B  
 **Working with Linear Reference Data and AI with CARTO and Oracle**  
