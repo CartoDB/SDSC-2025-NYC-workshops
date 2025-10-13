@@ -84,7 +84,7 @@ Led by **CARTO – John Branigan + Ryan + Antonio**
 #### Room B  
 **Intro/Medium A Cloud-Native Approach to Finding Building Heights with LiDAR-Derived HRDEM and HRDEM Mosaic Data**  
 *Technical level: Intro/Medium*  
-Led by **Koren – Moisés Benzan Valette**  
+Led by **Korem – Moisés Benzan Valette**  
 - [Slides](#)
 - [Worksheet](#)
 
