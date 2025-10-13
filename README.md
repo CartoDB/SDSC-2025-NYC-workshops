@@ -75,7 +75,7 @@ Led by **Diego Vicente**
 ### 13:30 – 14:30  
 
 #### Room A  
-**Agent Marketplace: Applying Specialized CARTO Agents through Google Agentspace**  
+**Agent Marketplace: Applying Specialized CARTO Agents through Google Gemini Enterprise**  
 *Technical level: Intro/Medium*  
 Led by **CARTO – John Branigan + Ryan + Antonio**  
 - [Slides](#)
