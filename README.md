@@ -47,8 +47,9 @@ Led by **CARTO – Ana & Ernesto**
 **Optimizing supply chains with real-time spatial analytics, trajectories and GeoAI**  
 *Technical level: Intro/Medium*  
 Led by **Snowflake – Ted Friedhouser & Ryan + Antonio**  
-- [Slides](#)
-- [Worksheet](#)
+- [Slides](https://docs.google.com/presentation/d/12BcLAQHKAwQXZp9SbfWlfwH7rgnWUUhpjjiViISzTg4/edit?usp=sharing)
+- [Worksheet](https://docs.google.com/document/d/1TyueK0c32IIDrTpq-cejUChDTa7u7RcZfexLIDgREgo/edit?usp=sharing
+)
 
 #### Room B  
 **Transforming Public Sector Planning: A Hands-On Workshop on Geospatial Analytics for Mobility and Infrastructure**  
@@ -78,8 +79,8 @@ Led by **Diego Vicente**
 **Agent Marketplace: Applying Specialized CARTO Agents through Google Gemini Enterprise**  
 *Technical level: Intro/Medium*  
 Led by **CARTO – John Branigan + Ryan + Antonio**  
-- [Slides](#)
-- [Worksheet](#)
+- [Slides]( https://docs.google.com/presentation/d/1fYbkTQLOFtNqQ0IQ7W1ua51ml92eO3MkGj-faPZrHOA/edit?usp=sharing)
+- [Worksheet](https://docs.google.com/document/d/1mjH3YCHqGcXfhe17L3XD_cuFsG-y_MgQD5L7x04uiSk/edit?usp=sharing)
 
 #### Room B  
 **Intro/Medium A Cloud-Native Approach to Finding Building Heights with LiDAR-Derived HRDEM and HRDEM Mosaic Data**  
