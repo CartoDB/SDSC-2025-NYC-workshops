@@ -62,7 +62,7 @@ Led by **Emma Pattiz + Gideon**
 **Full-Cycle Geospatial AI: From Risk Assessment to Resource Deployment in the Cloud**  
 *Technical level: Advanced*  
 Led by **Diego Vicente**  
-- [Slides](https://docs.google.com/presentation/d/1ftCni9PLeBrkXzdlnNic09RyrP0Rl66Jj8gK-A0bHS0/edit?slide=id.g3386d626f30_0_0#slide=id.g3386d626f30_0_0)
+- [Slides](https://docs.google.com/presentation/d/1ftCni9PLeBrkXzdlnNic09RyrP0Rl66Jj8gK-A0bHS0/preview)
 - [Worksheet](https://github.com/diego-vicente/sdsc-2025-fire-risk)
 
 ---
