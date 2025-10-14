@@ -19,7 +19,7 @@ If you have trouble accessing any of the Google slides/docs, it may be that your
 Led by **CARTO – Kirsten**  
 - [Slides](https://docs.google.com/presentation/d/1twQoVaRCXb7rQPqLiGXqDQ-MtszF4mW4m2tmDKfecK0/edit?slide=id.g38accb70e8b_0_651#slide=id.g38accb70e8b_0_651
 )
-- - [Worksheet](https://drive.google.com/drive/folders/1qQqkNnCT-IbCbLScLLK5dmTg7RueoDoA?usp=sharing)
+- [Worksheet](https://drive.google.com/drive/folders/1qQqkNnCT-IbCbLScLLK5dmTg7RueoDoA?usp=sharing)
 
 #### Room B  
 **Dynamic Retail Site Selection for Walkable Cities**  
