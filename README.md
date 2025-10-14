@@ -122,5 +122,6 @@ Led by **Michael Johns, Gideon & Antonio**
 **Working with Linear Reference Data and AI with CARTO and Oracle**  
 *Technical level: Intro/Medium*  
 Led by **Javier de la Torre**  
-- Content not available yet
+- [Slides](https://docs.google.com/presentation/d/1b9vucu8MrFFr6djEUERbioOAjOATN8ynTy3VjvgaLLY/edit?usp=sharing)
+
 
