@@ -77,17 +77,25 @@ Led by **Diego Vicente**
 ### 13:30 – 14:30  
 
 #### Room A  
+**Creating Cutting-Edge Geodemographic Classifications from Scratch in Python**  
+*Technical level: Advanced*  
+Led by **Alex Singleton & Owen Goodwin (University of Liverpool)**  
+- [Slides](https://github.com/ogoodwin505/GeoDem_CartoWorkshop2025)
+- [Worksheet](https://github.com/ogoodwin505/GeoDem_CartoWorkshop2025)
+
+#### Room B
 **Agent Marketplace: Applying Specialized CARTO Agents through Gemini Enterprise**  
 *Technical level: Intro/Medium*  
 Led by **CARTO – John Branigan + Ryan + Antonio**  
 - [Slides]( https://docs.google.com/presentation/d/1fYbkTQLOFtNqQ0IQ7W1ua51ml92eO3MkGj-faPZrHOA/edit?usp=sharing)
 - [Worksheet](https://docs.google.com/document/d/1mjH3YCHqGcXfhe17L3XD_cuFsG-y_MgQD5L7x04uiSk/edit?usp=sharing)
 
-#### Room B  
+#### Room C
 **Intro/Medium A Cloud-Native Approach to Finding Building Heights with LiDAR-Derived HRDEM and HRDEM Mosaic Data**  
 *Technical level: Intro/Medium*  
 Led by **Korem – Moisés Benzan Valette**  
 - [Slides](https://docs.google.com/presentation/d/1JAKuJQyTAFDAP6midXmnksmyTtqPIb9F/edit?usp=sharing&ouid=113826731267474957210&rtpof=true&sd=true)
+
 
 #### Room C  
 **Creating Cutting-Edge Geodemographic Classifications from Scratch in Python**  
