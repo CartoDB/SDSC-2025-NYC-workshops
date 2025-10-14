@@ -85,8 +85,7 @@ Led by **CARTO – John Branigan + Ryan + Antonio**
 **Intro/Medium A Cloud-Native Approach to Finding Building Heights with LiDAR-Derived HRDEM and HRDEM Mosaic Data**  
 *Technical level: Intro/Medium*  
 Led by **Korem – Moisés Benzan Valette**  
-- [Slides](#)
-- [Worksheet](#)
+- [Slides](https://docs.google.com/presentation/d/1JAKuJQyTAFDAP6midXmnksmyTtqPIb9F/edit?usp=sharing&ouid=113826731267474957210&rtpof=true&sd=true)
 
 #### Room C  
 **Creating Cutting-Edge Geodemographic Classifications from Scratch in Python**  
