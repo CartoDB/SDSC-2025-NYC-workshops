@@ -13,7 +13,7 @@ If you have trouble accessing any of the Google slides/docs, it may be that your
 
 ### 10:30 – 11:30  
 
-#### Room A  
+#### Room C 
 **Mapping Transit Access and Taxi Trips to Identify New Bus Routes**  
 *Technical level: Beginner*  
 Led by **CARTO – Kirsten**  
@@ -28,7 +28,7 @@ Led by **CARTO – Chelsea**
 - [Slides](https://docs.google.com/presentation/d/1bR6CIXDQil2Alb1Gr8AIdHp-6dxvZmsaRqgCgtxgUf8/edit?slide=id.g3386d626f30_0_0#slide=id.g3386d626f30_0_0)
 - [Worksheet](https://drive.google.com/drive/folders/1jmiQps0BNpkRYHtGdwxU2UcoVZksGrg-)
 
-#### Room C  
+#### Room A  
 **Agentic GIS: Turning CARTO Workflows into MCP Tools**  
 *Technical level: Advanced*  
 Led by **CARTO – Ana & Ernesto**
