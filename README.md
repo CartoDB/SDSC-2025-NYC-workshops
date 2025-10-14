@@ -113,8 +113,7 @@ Led by **Michael Johns, Gideon & Antonio**
 **Working with Linear Reference Data and AI with CARTO and Oracle**  
 *Technical level: Intro/Medium*  
 Led by **Javier de la Torre**  
-- [Slides](#)
-- [Worksheet](#)
+- Content not available yet
 
 #### Room C  
 **Building Agentic AI Apps with CARTO**
