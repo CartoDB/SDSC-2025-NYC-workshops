@@ -120,14 +120,15 @@ Led by **Felix Palmer**
 - [Slides](https://docs.google.com/presentation/d/1ASQBK1Wrle8qfac_u_NWNUQeKeTnukJzNPNv2vHRSyw/edit?slide=id.g12b30b8a813_1_0#slide=id.g12b30b8a813_1_0)
 - [Worksheet](https://github.com/CartoDB/sdsc-2025-ai-deck-workshop)
 
-#### Room B  
+#### Room B
+**From Risk to Resilience: Mastering Asset Impact Planning with CARTO**  
+*Technical level: Intro/Medium*  
+Led by **Michael Johns, Gideon & Antonio**  
+- [Slides](https://docs.google.com/presentation/d/1wrLXqEeASM08r-btnqNeabCw6ASaagorlWOhU37k7IU/edit?usp=sharing)
+
+#### Room C  
 **Working with Linear Reference Data and AI with CARTO and Oracle**  
 *Technical level: Intro/Medium*  
 Led by **Javier de la Torre**  
 - Content not available yet
 
-#### Room C 
-**From Risk to Resilience: Mastering Asset Impact Planning with CARTO**  
-*Technical level: Intro/Medium*  
-Led by **Michael Johns, Gideon & Antonio**  
-- [Slides](https://docs.google.com/presentation/d/1wrLXqEeASM08r-btnqNeabCw6ASaagorlWOhU37k7IU/edit?usp=sharing)
