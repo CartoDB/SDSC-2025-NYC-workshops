@@ -96,14 +96,6 @@ Led by **CARTO – John Branigan + Ryan + Antonio**
 Led by **Korem – Moisés Benzan Valette**  
 - [Slides](https://docs.google.com/presentation/d/1JAKuJQyTAFDAP6midXmnksmyTtqPIb9F/edit?usp=sharing&ouid=113826731267474957210&rtpof=true&sd=true)
 
-
-#### Room C  
-**Creating Cutting-Edge Geodemographic Classifications from Scratch in Python**  
-*Technical level: Advanced*  
-Led by **Alex Singleton & Owen Goodwin (University of Liverpool)**  
-- [Slides](https://github.com/ogoodwin505/GeoDem_CartoWorkshop2025)
-- [Worksheet](https://github.com/ogoodwin505/GeoDem_CartoWorkshop2025)
-
 ---
 
 ### 14:30 – 14:35  
